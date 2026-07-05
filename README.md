@@ -8,3 +8,5 @@
 ### + , ; `dni list! ;; hellaverse (vivziepop), minors under 10yrs old, n4zis, homophobes/transphobes, MAPs... prolly more lmao ` 💖 ◡
 ### <img width="492" height="494" alt="image" src="https://github.com/user-attachments/assets/83b32c18-dc3e-4d96-82b9-a7c8ad2430ad" />
 \+ , ; `made by me, credit if you use it ^^ 🎉 ◡ `
+
+### + , ; 💫 *"if you've ever taken a road trip through the pacific northwest, you've probably seen a bumper sticker for a place called "Gravity Falls". it's not on any maps, and most people have never heard of it. some people think it's a myth."*
