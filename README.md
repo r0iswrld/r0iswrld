@@ -1,10 +1,2 @@
-- 👋 helo, i'm r0i/roi
-- 👀 i like youtube, coding, and food
-- 🌱 learning python
-- 💞️ might collab w/ python projects
-- 📫 available by discord and email
 
-<!---
-r0iswrld/r0iswrld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://private-user-images.githubusercontent.com/263657113/617123049-805d2433-89d1-4798-8e7b-dcf49cd235ef.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODMyMTkzMjAsIm5iZiI6MTc4MzIxOTAyMCwicGF0aCI6Ii8yNjM2NTcxMTMvNjE3MTIzMDQ5LTgwNWQyNDMzLTg5ZDEtNDc5OC04ZTdiLWRjZjQ5Y2QyMzVlZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcwNVQwMjM3MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01YWQ0YTNkZDRkZjQ3NDllMzk1ZDdmOGMzY2I2Yzg1NzM4YzMyYjI1Mzg5NWM3Y2ZiNGMwZWNiNWU1NjgwMmFjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.FTjaP9iCi_6xSfjSimSJ--hyukVqxw0VGgY8wm7_dsY
